@@ -1,6 +1,8 @@
 # ScreenRotationTray
 System tray application that allows easy access to screen rotation options.
 
+Left-click for quick access to rotation options. Right-click for access to application settings.
+
 # Settings
 Once running, all options can be configured via the tray icon's right-click menu.
 
