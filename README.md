@@ -15,3 +15,7 @@ Changes the look of the GUI accessed by left-clicking the tray icon.
 Enable or disable animations (May be useful on slower systems).
 * Checked (Default): Enable animations used by the Modern Prompt.
 * Unchecked: Disable animations used by the modern Prompt.
+
+# Resources
+List of resources used while building this script:
+* [Autohotkey Community - Scripts and Functions - Graphic Buttons](https://autohotkey.com/board/topic/3816-graphic-buttons/)
