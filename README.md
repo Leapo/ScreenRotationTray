@@ -8,8 +8,8 @@ Once running, all options can be configured via the tray icon's right-click menu
 
 <b>Modern Prompt:</b><br>
 Changes the look of the GUI accessed by left-clicking the tray icon.
-* Checked (Default): Modern (default) is themed to match Windows 10.
-* Unchecked: Classic is a simple un-themed menu.
+* Checked (Default): Fully themed GUI, built to match Windows 10's user interface.
+* Unchecked: Reverts to an un-themed context menu.
 
 <b>Animations:</b><br>
 Enable or disable animations (May be useful on slower systems).
