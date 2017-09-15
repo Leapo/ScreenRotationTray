@@ -10,5 +10,6 @@ Changes the look of the GUI accessed by left-clicking the tray icon.
 * Unchecked: Classic is a simple un-themed menu.
 
 <b>Animations</b><br>
+Enable or disable animations (May be useful on slower systems).
 * Checked (Default): Enable animations used by the Modern Prompt.
 * Unchecked: Disable animations used by the modern Prompt.
