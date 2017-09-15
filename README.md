@@ -6,12 +6,12 @@ Left-click for quick access to rotation options. Right-click for access to appli
 # Settings
 Once running, all options can be configured via the tray icon's right-click menu.
 
-<b>Modern Prompt</b><br>
+<b>Modern Prompt:</b><br>
 Changes the look of the GUI accessed by left-clicking the tray icon.
 * Checked (Default): Modern (default) is themed to match Windows 10.
 * Unchecked: Classic is a simple un-themed menu.
 
-<b>Animations</b><br>
+<b>Animations:</b><br>
 Enable or disable animations (May be useful on slower systems).
 * Checked (Default): Enable animations used by the Modern Prompt.
 * Unchecked: Disable animations used by the modern Prompt.
