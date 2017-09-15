@@ -8,12 +8,12 @@ Once running, all options can be configured via the tray icon's right-click menu
 
 <b>Modern Prompt:</b><br>
 Changes the look of the GUI accessed by left-clicking the tray icon.
-* Checked (Default): Fully themed GUI, built to match Windows 10's user interface.
+* Checked: Fully themed GUI, built to match Windows 10's user interface. (Default)
 * Unchecked: Reverts to an un-themed context menu.
 
 <b>Animations:</b><br>
 Enable or disable animations (May be useful on slower systems).
-* Checked (Default): Enable animations used by the Modern Prompt.
+* Checked: Enable animations used by the Modern Prompt. (Default)
 * Unchecked: Disable animations used by the modern Prompt.
 
 # Resources
